@@ -1,2 +1,2 @@
 # staragile
-staragile data science-pranav gandhi
+staragile data science-mayank arora
